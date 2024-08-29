@@ -9,7 +9,7 @@ Tested and works in
 # How to run
 Put your credential in `autologin.py`
 ```python
-username = "50xxxxxxxx"
+username = "5024xxxxxx"
 password = "password"
 ```
 Run the program 
